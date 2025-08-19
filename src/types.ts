@@ -20,5 +20,5 @@ export interface TripLog {
    unitPrice?: number;      // €/liter or €/kWh
    totalCost?: number;      // total € (optional)
     
-}
+};
 
